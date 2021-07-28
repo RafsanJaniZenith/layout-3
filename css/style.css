@@ -1,0 +1,71 @@
+*{
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: white;
+}
+
+body{
+	background-color: navajowhite;
+}
+
+
+header{
+	background-color:red;
+	height: 100px;
+	margin: 1%;
+}
+
+nav{
+	background-color: darkred;
+	height: 100px;
+	margin: 1% 1% 0 1%;
+}
+
+
+.banner{
+	overflow: hidden;
+	height: 600px;
+}
+
+
+.left{
+	float: left;
+	width: 59%;
+	height: 100%;
+	margin: 1%;
+}
+
+.section{
+	background-color: indianred;
+	height: 49%;
+	margin: 1% 0;
+}
+
+
+.article{
+	background-color: palevioletred;
+	height: 49%;
+	margin: 1% 0;
+}
+
+
+.right{
+	height: 100%;
+	width: 39%;
+	float: left;
+	margin: 16px 0;
+}
+
+
+aside{
+	background-color: mediumvioletred;
+	height: 100%;
+	margin: 5px 13px 16px 0;
+}
+
+
+footer{
+	margin: 16px 13px;
+	background-color: orangered;
+}
